@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+microsoft-project-planner
+# Microsoft Project Planner 
 
-Based on "ABC" at https://www.abc.com/
+Based on "How to Use Microsoft Planner to Manage Your Project (2024)" at https://www.youtube.com/watch?v=qRJxJQCnZpw
 
 ## 100 - Introduction
 
